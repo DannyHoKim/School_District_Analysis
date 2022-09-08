@@ -10,6 +10,7 @@ After creating an initial analysis of standardized tests for the City School Dis
 
     Original District Summary:
 ![original_district_summary](Resources/original_district_summary.png)
+
     New District Summary:
 ![new_district_summary](Resources/new_district_summary.png)
 
