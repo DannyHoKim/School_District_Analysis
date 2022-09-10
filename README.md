@@ -112,8 +112,8 @@ Thomas High School is a Charter school so only the data within that row have bee
 
 1. Thomas High School's percentages for math, reading, and overall passing have dropped over 20%.
 
-2. With the drop in overall passing %, Thomas High School has also decreased in rank from 2nd the 8th amongst the 15 schools represented. 
+2. With the drop in overall passing %, Thomas High School has also decreased in rank from 2nd to 8th amongst the 15 school represented.
 
-3. The data scores by: school spending, school size, and school type, show very little change. The data needed to be formatted to the hundredths place in order to see the change. It is interesting to note that once the 9th, 10th, and 11th grade scores where counted, totaled, and averaged the data remained similar to the original data. It may be interesting to see how data would be affected when the total count of students is recalculated excluding the 9th grade class.
+3. The data scores by: school spending, school size, and school type, show very little change. The data needed to be formatted to the hundredths place in order to see the change. It is interesting to note that once the 9th, 10th, and 11th grade scores where counted, totaled, and averaged the data remained similar to the original data. It may be interesting to see how data would be affected when the total count of students is recalculated excluding the 9th grade class from Thomas High School.
 
-4. Overall, whether minor or major, the data shows that when the 9th grader's scored were replaced with NaN, the scores and percentes were lowered. 
+4. Overall, whether minor or major, the data shows that when the 9th grader's scores were replaced with NaN, the scores and percentages were lowered. Depending on the data frame index property the change affected whichever catergory Thomas High School was placed in. In this case, the $631-645 spending range category, the Medium school size category, and the Charter school type category. This in turn not only affects Thomas High School individual rank, but also lowers other schools who fall into similar categories. 
