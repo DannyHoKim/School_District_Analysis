@@ -34,7 +34,7 @@ In the new school summary we see significant changes in the math, reading, and o
 
     - % Passing Math: 26% drop
     - % Passing Reading: 27% drop
-    - % Overall Passing: 2% drop
+    - % Overall Passing: 26% drop
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -107,3 +107,13 @@ New School Type Data Frame:
 
 Changes:
 Thomas High School is a Charter school so only the data within that row have been affected. Again, the changes are minor. 
+
+## Summary (4 Changes)
+
+1. Thomas High School's percentages for math, reading, and overall passing have dropped over 20%.
+
+2. With the drop in overall passing %, Thomas High School has also decreased in rank from 2nd the 8th amongst the 15 schools represented. 
+
+3. The data scores by: school spending, school size, and school type, show very little change. The data needed to be formatted to the hundredths place in order to see the change. It is interesting to note that once the 9th, 10th, and 11th grade scores where counted, totaled, and averaged the data remained similar to the original data. It may be interesting to see how data would be affected when the total count of students is recalculated excluding the 9th grade class.
+
+4. Overall, whether minor or major, the data shows that when the 9th grader's scored were replaced with NaN, the scores and percentes were lowered. 
