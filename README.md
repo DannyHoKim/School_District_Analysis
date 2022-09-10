@@ -31,6 +31,7 @@ New School Summary:
 
 Changes:
 In the new school summary we see significant changes in the math, reading, and overall passing percentages for Thomas High School. while keeping the total number of students (including 9th graders w/ NaNs), we can see a dramatic drop in their passing percentages:
+
     - % Passing Math: 26% drop
     - % Passing Reading: 27% drop
     - % Overall Passing: 2% drop
