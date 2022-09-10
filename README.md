@@ -9,9 +9,11 @@ After creating an initial analysis of standardized tests for the City School Dis
 ### 1. How is the district summary affected?
 
 Original District Summary:
+
 ![original_district_summary](Resources/original_district_summary.png)
 
 New District Summary:
+
 ![new_district_summary](Resources/new_district_summary.png)
 
 Changes:
